@@ -1,0 +1,19 @@
+newsroom/
+├── apps/
+│   ├── web/
+│   └── api/
+├── workflows/
+├── packages/
+│   └── shared/
+├── db/
+│   ├── migrations/
+│   └── schema.sql
+├── prompts/
+│   └── article_processor.txt
+├── scripts/
+├── .env.example
+├── .gitignore
+├── README.md
+├── package.json
+└── .github/
+    └── workflows/
